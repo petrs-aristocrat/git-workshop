@@ -1,2 +1,3 @@
-# git-workshop
-This is a trial repository for git related workshop
+# Git-Workshops
+
+This is a practice repository for git related workshops.
