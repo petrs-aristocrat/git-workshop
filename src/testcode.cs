@@ -4,13 +4,12 @@ namespace TestCode
     public class TestClass
     {
 
-        private IList<string> _list = new IList<string>();
+        private IList<string> _list = new List<string>();
 
         public TestClass()
         {
 
             _list = new List<string>();
-
 
         }
 
